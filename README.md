@@ -8,3 +8,4 @@ This is a collection of Terraform configurations to provision resources on Azure
  * Virtual Machines
  * Virtual Networks
 
+Test
